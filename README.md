@@ -1,5 +1,4 @@
 <div align="center">
-<img width="300" src="ico.ico">
   <h1>RdProxy 1.12.2</h1>
 
 ### Minecraft Forge Hybrid server implementing the Paper/Spigot/Bukkit API, formerly known as Thermos/Cauldron/MCPC+
