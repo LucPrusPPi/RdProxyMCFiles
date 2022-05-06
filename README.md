@@ -16,8 +16,6 @@
 [![](https://img.shields.io/discord/311256119005937665.svg?color=%237289da&label=Discord&logo=discord&logoColor=%237289da)](https://discord.gg/ZgXjHGd)
 [![](https://img.shields.io/badge/Patreon-Support-orange.svg?logo=Patreon)](https://www.patreon.com/mohist)
 
-<a href="https://github.com/MohistMC/Mohist/blob/1.12.2/readme/README-zh.md">中文</a> | <a href="https://github.com/MohistMC/Mohist/blob/1.12.2/readme/README-fr.md">Français</a>  | <a href="https://github.com/MohistMC/Mohist/blob/1.12.2/readme/README-de.md">German</a> | <a href="https://github.com/MohistMC/Mohist/blob/1.12.2/readme/README-es.md">Spanish</a> | <a href="https://github.com/MohistMC/Mohist/blob/1.12.2/readme/README-in.md">Indonesian</a> | <a href="https://github.com/MohistMC/Mohist/blob/1.12.2/readme/README-jp.md">Japanese</a> | <a href="https://github.com/MohistMC/Mohist/blob/1.12.2/readme/README-pt-BR.md">Portuguese, Brazilian</a> | <a href="https://github.com/MohistMC/Mohist/blob/1.12.2/readme/README-ru.md">Russian</a>
-
 Upstream Projects
 ------
 * [**Bukkit**](https://hub.spigotmc.org/stash/scm/spigot/bukkit.git) - plugin support.
